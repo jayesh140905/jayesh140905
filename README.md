@@ -2,13 +2,11 @@
 
 ### 🚀 About Me:
 - 🎓 CS Sophomore at Manipal University Jaipur
-- 🍰 Running a home bakery specializing in cakes, brownies, pastries, and chocolates in Kolkata
 - 🤖 Building a fire-extinguishing robot with real-time fire detection
-- 📊 Performing Exploratory Data Analysis (EDA) on F1 circuits and the 2024 F1 season using Kaggle
+- 📊 Performed Exploratory Data Analysis (EDA) on F1 circuits and the 2024 F1 season using Kaggle
 - 🛍️ Developing an e-commerce website management system with SQL backend integration
-- ⚽ Predicting football match scores using random forests and web scraping
-- 💡 Exploring AI/ML innovations and working towards filing a patent
-
+- ⚽ Predicted football match scores using random forests and web scraping
+  
 ### 🧰 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
