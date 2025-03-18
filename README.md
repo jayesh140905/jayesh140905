@@ -12,16 +12,6 @@ Frameworks & Tools: Django, HTML, CSS, Arduino, Raspberry Pi
 
 Domains: Data Science, Machine Learning, Artificial Intelligence, Internet of Things (IoT)
 
-📚 Education
-
-B.Tech in Computer Science & Engineering (2023 - Present)Manipal University JaipurSpecialization: Internet of Things and Intelligent Systems
-
-🏆 Certifications
-
-CCNA: Introduction to Networks (Cisco NetAcad)
-
-Fundamentals of Network Communications (Coursera)
-
 📊 Projects
 
 Football Match Score Prediction Using Random Forests
