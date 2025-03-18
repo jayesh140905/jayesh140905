@@ -24,8 +24,6 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayesh140905&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jayesh140905&theme=tokyonight&hide_border=true&border_radius=20)
-
 </div>
 
 ### 📊 Top Languages:
