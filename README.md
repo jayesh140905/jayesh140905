@@ -1,11 +1,7 @@
 # Hi there, I'm Jayesh Shaw! 👋
 
-### 🚀 About Me:
-- 🎓 CS Sophomore at Manipal University Jaipur
-- 🤖 Building a fire-extinguishing robot with real-time fire detection
-- 📊 Performed Exploratory Data Analysis (EDA) on F1 circuits and the 2024 F1 season using Kaggle
-- 🛍️ Developing an e-commerce website management system with SQL backend integration
-- ⚽ Predicted football match scores using random forests and web scraping
+### 🚀 About Me: 🎓 CS Sophomore at Manipal University Jaipur
+
 
 ### 🧰 Tech Stack:
 <div align="center">
